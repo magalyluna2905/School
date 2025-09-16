@@ -57,4 +57,3 @@ The results are printed to the **Serial Monitor** in binary format.
 
 ---
 
-## Example Output
